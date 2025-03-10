@@ -1,0 +1,332 @@
+Rank;Name;Symbol;earnings_ttm;price (EUR);country
+1;Nestlé;NESN.SW;15109000000;90.283836223;Switzerland
+2;McDonald;MCD;10322000000;290.2797073;United States
+3;Unilever;UL;8072460000;53.4542829;United Kingdom
+4;Mondelez;MDLZ;6261000000;61.5871811;United States
+5;Danone;BN.PA;5329600000;68.48;France
+6;Sysco;SYY;3175260000;69.7296026;United States
+7;General Mills;GIS;3173100000;58.09213;United States
+8;Archer Daniels Midland (ADM);ADM;3015000000;45.8927827;United States
+9;Wilmar International;F34.SI;2621150000;2.1948159044;Singapore
+10;Ahold Delhaize;AD.AS;2392600000;33.63;Netherlands
+11;JBS;JBSS3.SA;2311470000;5.2262632371;Brazil
+12;The Hershey Company;HSY;2243090000;164.6197638;United States
+13;Bunge;BG;2173000000;69.5772298;United States
+14;Compass Group;CPG.L;2130820000;33.613058748;United Kingdom
+15;George Weston;WN.TO;2004700000;145.65220719;Canada
+16;Chipotle Mexican Grill;CMG;1985180000;49.0545183;United States
+17;Tyson Foods;TSN;1905000000;57.5683485;United States
+18;Hindustan Unilever;HINDUNILVR.NS;1770570000;24.654014273;India
+19;Kirin Holdings;2503.T;1650090000;12.895119598;Japan
+20;Associated British Foods;ABF.L;1634400000;22.99019853;United Kingdom
+21;Restaurant Brands International;QSR;1625000000;59.3396823;Canada
+22;Pilgrim's Pride;PPC;1573440000;50.5972929;United States
+23;WH Group;0288.HK;1543000000;0.75751947054;Hong Kong
+24;BRF;BRFS;1530290000;3.1903055;Brazil
+25;Uni-President Enterprises;1216.TW;1450230000;2.4065474333;Taiwan
+26;Indofood;INDF.JK;1442730000;0.44987402569;Indonesia
+27;Darden Restaurants;DRI;1339000000;182.0950193;United States
+28;Muyuan Foods;002714.SZ;1304890000;4.8601685385;China
+29;Yum China;YUMC;1299000000;44.4642877;China
+30;J.M. Smucker Company;SJM;1217600000;104.7658233;United States
+31;Grupo Bimbo;BIMBOA.MX;1185600000;2.6280022515;Mexico
+32;Hormel Foods;HRL;1116330000;28.2365845;United States
+33;Fonterra;FCG.NZ;1108820000;2.5698720283;New Zealand
+34;Ajinomoto;2802.T;1058800000;37.784454614;Japan
+35;Campbell Soup;CPB;1018000000;38.6550747;United States
+36;Kellogg's;K;1014000000;78.7195978;United States
+37;Foshan Haitian Flavouring and Food;603288.SS;1010460000;5.4460133846;China
+38;Conagra Brands;CAG;997200000;24.5605907;United States
+39;Olam;VC2.SI;962644000;0.80524167917;Singapore
+40;Ingredion;INGR;955000000;121.9744264;United States
+41;Mengniu Dairy;2319.HK;942794000;2.0396623008;China
+42;Chocoladefabriken Lindt &amp;;;;
+43;Kerry Group;KRZ.IR;909352000;97.6;Ireland
+44;Domino's Pizza;DPZ;902210000;440.3288221;United States
+45;McCormick & Company;MKC;898300000;76.3197262;United States
+46;Kraft Heinz;KHC;856000000;29.6460329;United States
+47;Indofood CBP;ICBP.JK;833323000;0.67188881393;Indonesia
+48;Mowi;MNHVF;824841000;17.7038147;Norway
+49;Post Holdings;POST;823300000;110.1464878;United States
+50;Performance Food Group;PFGC;807100000;77.9482105;United States
+51;Aramark;ARMK;804371000;34.2172169;United States
+52;Cal-Maine Foods;CALM;796672000;86.7001232;United States
+53;Gruma (Maseca);GRUMAB.MX;761003000;16.809005432;Mexico
+54;Want Want China;0151.HK;728034000;0.56875242726;Hong Kong
+55;Empire Company;EMP-A.TO;684081000;28.788840667;Canada
+56;Charoen Pokphand Foods;CPF.BK;670890000;0.63867154353;Thailand
+57;Tingyi (master kang);0322.HK;661327000;1.3998203437;China
+58;US Foods;USFD;644000000;66.758333;United States
+59;Morinaga Milk Industry;2264.T;611461000;19.074312803;Japan
+60;Barry Callebaut;BARN.SW;609584000;1123.5113175;Switzerland
+61;Meiji Holdings;2269.T;599628000;18.962509261;Japan
+62;Almarai;2280.SR;586572000;14.643407012;Saudi Arabia
+63;Nissin Foods;2897.T;532718000;18.710141811;Japan
+64;Darling Ingredients;DAR;531180000;37.3503826;United States
+65;Kikkoman;2801.T;517115000;9.10903645;Japan
+66;SalMar ASA;SALM.OL;510560000;49.160703095;Norway
+67;Lamb Weston;LW;502500000;53.140014;United States
+68;Austevoll Seafood;AUSS.OL;501874000;9.0712194257;Norway
+69;Toyo Suisan;2875.T;500883000;57.91309196;Japan
+70;Bid Corp;BID.JO;498425000;25.814333145;South Africa
+71;Nestlé India;NESTLEIND.NS;491956000;24.360315701;India
+72;Sprouts Farmers Market;SFM;474580000;136.4879356;United States
+73;AAK;AAK.ST;473609000;27.27949285;Sweden
+74;Smithfield Foods;SFD;469700000;20.094163;United States
+75;Texas Roadhouse;TXRH;467949000;161.0675729;United States
+76;Nomad Foods;NOMD;460194000;17.9514205;United Kingdom
+77;Migros Ticaret A.S.;MGROS.IS;425748000;14.472749476;Turkey
+78;ORION;271560.KS;398231000;71.743590084;South Korea
+79;Glanbia plc;GL9.IR;392400000;14.48;Ireland
+80;Jollibee;JBFCF;365741000;3.999786;Philippines
+81;Brinker International;EAT;356200000;137.9640471;United States
+82;SATS;S58.SI;348686000;2.351588469;Singapore
+83;Savola Group;2050.SR;339606000;9.4444851692;Saudi Arabia
+84;Zensho Holdings;7550.T;322328000;49.120419536;Japan
+85;L.D.C. S.A.;LOUP.PA;320861000;67;France
+86;Südzucker;SZU.F;319149000;10.64;Germany
+87;Flowers Foods;FLO;318111000;18.475202;United States
+88;Samyang Foods;003230.KS;314582000;601.84875175;South Korea
+89;Hai Di Lao Hot Pot;6862.HK;307042000;1.9097359189;China
+90;PPB Group Berhad;4065.KL;304784000;2.350636139;Malaysia
+91;Dole PLC;DOLE;304742000;12.9897812;Ireland
+92;McDonald's Japan;2702.T;294734000;37.190200694;Japan
+93;Universal Robina Corporation;UVRBF;289589000;0.95233;Philippines
+94;East India Distilleries Parry;EIDPARRY.NS;289040000;7.6585616736;India
+95;Thai Union Group;TU.BK;286295000;0.33210889789;Thailand
+96;Emmi AG;EMMN.SW;283205000;880.55955421;Switzerland
+97;NH Foods (Nipponham);2282.T;280796000;28.633896576;Japan
+98;Unilever Indonesia;UNVR.JK;278969000;0.075368443763;Indonesia
+99;Wendy’s Company;WEN;269220000;14.4849393;United States
+100;Mayora;MYOR.JK;262071000;0.13379379403;Indonesia
+101;Nichirei Corporation;2871.T;260804000;22.256618731;Japan
+102;Adani Wilmar;AWL.NS;258935000;2.863370611;India
+103;Premium Brands;PBH.TO;247429000;51.959315266;Canada
+104;Leroy Seafood;LSG.OL;238188000;4.437286402;Norway
+105;Kobe Bussan;3038.T;234763000;20.480142349;Japan
+106;Arcos Dorados Holdings;ARCO;231466000;7.9710021;Uruguay
+107;Lancaster Colony Corporation;LANC;223233000;185.5234073;United States
+108;Tiger Brands;TBS.JO;217894000;14.54588842;South Africa
+109;Calbee, Inc.;2229.T;207468000;18.214834978;Japan
+110;Ebro Foods;EBRO.MC;206800000;16.62;Spain
+111;Kagome Co., Ltd.;2811.T;205969000;18.141410335;Japan
+112;Elior Group;ELIOR.PA;203047000;2.6;France
+113;Patanjali Foods;PATANJALI.NS;193383000;20.422431151;India
+114;Tate &amp;;;;
+115;Simply Good Foods;SMPL;186617000;35.5314323;United States
+116;Dine Brands Global;DIN;180673000;24.5320208;United States
+117;Bell Food Group;BELL.SW;179600000;266.82001008;Switzerland
+118;Greggs;GRG.L;179413000;25.336073019;United Kingdom
+119;Balchem;BCPC;174236000;155.9249909;United States
+120;Cranswick;CWK.L;172802000;59.310064837;United Kingdom
+121;Papa John's Pizza;PZZA;169739000;45.4451876;United States
+122;Charoen Pokphand Indonesia;CPIN.JK;168643000;0.2722616237;Indonesia
+123;Unibel S.A.;UNBL.PA;167256000;985;France
+124;Ottogi;007310.KS;165593000;260.73462138;South Korea
+125;DO &amp;;;;
+126;Maple Leaf Foods;MFI.TO;161683000;14.585314882;Canada
+127;Nongshim;004370.KS;161316000;232.50279853;South Korea
+128;Wingstop Restaurants;WING;155230000;222.8642666;United States
+129;Savencia Fromage &amp;;;;
+130;Nestle Malaysia;4707.KL;145328000;19.516765321;Malaysia
+131;Lotus Bakeries;LOTB.BR;143767000;9080;Belgium
+132;The Cheesecake Factory;CAKE;139824000;52.0448345;United States
+133;Saudia Dairy &amp;;;;
+134;AVI Limited;AVI.JO;135209000;5.072871444;South Africa
+135;The a2 Milk Company;A2M.AX;135206000;4.7061386843;New Zealand
+136;ARYZTA AG;ARYN.SW;133835000;1.9467815559;Switzerland
+137;The National Agricultural Development Company;6010.SR;133795000;6.8513858122;Saudi Arabia
+138;Strauss Group;STRS.TA;130631000;21.442947979;Israel
+139;B&amp;;;;
+140;Corbion;CRBN.AS;124859000;22.82;Netherlands
+141;Lassonde Industries;LAS-A.TO;122212000;130.58444193;Canada
+142;Fuji Oil Holdings;2607.T;120846000;16.44483444;Japan
+143;Tootsie Roll Industries;TR;120488000;30.8173988;United States
+144;J&amp;;;;
+145;Showa Sangyo;2004.T;114607000;17.949706306;Japan
+146;Saputo;SAP.TO;107871000;17.016137207;Canada
+147;SpartanNash;SPTN;107807000;18.7323311;United States
+148;SSP Group;SSPG.L;107456000;2.0957069213;United Kingdom
+149;Zomato;ZOMATO.NS;104376000;2.5335311155;India
+150;Bakkafrost;BAKKA.OL;96576500;48.604923307;Denmark
+151;AmRest;EAT.MC;96466000;4.26;Spain
+152;MARR S.p.A.;MARR.MI;93517900;10.16;Italy
+153;WK Kellogg;KLG;93000000;19.0180301;United States
+154;Prima Meat Packers;2281.T;91936000;13.700314613;Japan
+155;First Milling Company;2283.SR;91134100;15.711159408;Saudi Arabia
+156;Marel;MAREL.AS;88318800;4.55;Iceland
+157;MTY Food Group;MTY.TO;84366900;28.527711781;Canada
+158;Almunajem Foods Company;4162.SR;84230800;24.278605787;Saudi Arabia
+159;Collins Foods Limited;CKF.AX;80167400;4.9060137047;Australia
+160;High Liner Foods;HLF.TO;78836000;10.707903287;Canada
+161;Jack in the Box;JACK;77811000;36.6266118;United States
+162;Ohsho Food Service;9936.T;73370500;19.393819518;Japan
+163;ARIAKE JAPAN;2815.T;73298400;37.829118891;Japan
+164;The Chefs' Warehouse;CHEF;71147000;60.3681987;United States
+165;Rogers Sugar (Lantic);RSI.TO;69405000;3.7233341243;Canada
+166;Baladna;BLDN.QA;68569700;0.33907138252;Qatar
+167;Fine Organics;FINEORG.NS;68561200;42.2548821;India
+168;CAVA Group;CAVA;67246000;102.7849769;United States
+169;Domino's Pizza Enterprises (Australia);DMP.AX;66619400;19.266683463;Australia
+170;ITOCHU-SHOKUHIN;2692.T;64577000;47.286422422;Japan
+171;Vital Farms;VITL;63819000;33.236317;United States
+172;Vinh Hoan Corporation;VHC.VN;63540200;2.6505439026;Vietnam
+173;Portillo's;PTLO;63349000;13.046921;United States
+174;Cloetta;CLA-B.ST;62064800;2.4775150649;Sweden
+175;Bloomin' Brands;BLMN;61261000;11.2755872;United States
+176;Biglari;BH;60500000;223.1118724;United States
+177;Mission Produce;AVO;60400000;11.7422289;United States
+178;Kyokuyo;1301.T;59202900;26.327067617;Japan
+179;Zad Holding Company;ZHCD.QA;58834500;3.9270565579;Qatar
+180;KOMEDA Holdings;3543.T;58582800;17.150891902;Japan
+181;Modern Mills for Food Products;2284.SR;57348800;10.436013072;Saudi Arabia
+182;Ricegrowers Limited;SGLLV.AX;56912700;6.2687979347;Australia
+183;Freshpet;FRPT;56438000;95.4996524;United States
+184;Jubilant FoodWorks;JUBLFOOD.NS;55475200;7.6145735509;India
+185;Mezzan Holding Company;MEZZAN.KW;53773800;2915.9868435;Kuwait
+186;Wellneo Sugar;2117.T;53063300;14.422371219;Japan
+187;S Foods Inc.;2292.T;50425800;15.22109039;Japan
+188;Seneca Foods;SENEA;49879000;76.6530417;United States
+189;Südwestdeutsche Salzwerke;SSH.F;49157600;52.5;Germany
+190;Sildarvinnslan;SVN.IC;48745900;0.63063673532;Iceland
+191;Hatsun Agro Products;HATSUN.NS;46505100;10.576957912;India
+192;Kri-Kri Milk Industry;KRI.AT;46329700;16.5;Greece
+193;Denny's;DENN;45861000;5.0663956;United States
+194;Arnarlax (Icelandic Salmon);ISLAX.OL;44856000;9.917659853;Iceland
+195;Tanmiah Food Company;2281.SR;43908200;31.676495693;Saudi Arabia
+196;Brim hf.;BRIM.IC;43562100;0.50176743972;Iceland
+197;Dingdong Maicai;DDL;40077200;3.5331443;China
+198;ORIOR AG;ORON.SW;39372800;44.240109218;Switzerland
+199;Italmobiliare;ITM.MI;39192600;27;Italy
+200;Ridley Corporation;RIC.AX;38814700;1.5020910624;Australia
+201;Nathan's Famous;NATH;37331000;95.328233;United States
+202;Kameda Seika;2220.T;35105600;24.633729644;Japan
+203;Royal holdings;8179.T;35048700;15.22109039;Japan
+204;Utz Brands;UTZ;34991000;13.427853;United States
+205;The ONE Group Hospitality;STKS;34183000;2.9426997;United States
+206;El Pollo Loco;LOCO;33521000;11.2660639;United States
+207;Fresh Del Monte Produce;FDP;33500000;29.4079504;Cayman Islands
+208;First Watch Restaurant;FWRG;32793000;19.3037291;United States
+209;Chuy's;CHUY;31534000;35.6933284;United States
+210;Bonduelle;BON.PA;29612100;6.95;France
+211;Devyani International;DEVYANI.NS;29595500;1.9415056477;India
+212;Pizza Pizza;PZA.TO;28914900;8.8127856336;Canada
+213;Raisio plc;RAIVV.HE;27650900;2.345;Finland
+214;Al-Jouf Agricultural Development;6070.SR;25305600;14.00782197;Saudi Arabia
+215;Vadilal Industries;VADILALIND.NS;24789000;41.745671249;India
+216;Krispy Kreme;DNUT;24723000;8.7138195;United States
+217;Fujiya Co., Ltd.;2211.T;23513500;14.320090977;Japan
+218;Jahez International Company for Information Systems Technology;9526.SR;23411700;9.554822123;Saudi Arabia
+219;Parag Milk Foods;PARAGMILK.NS;23370300;1.7235173107;India
+220;Bafang Yunji;2753.TW;21928900;4.6212670347;Taiwan
+221;Greenyard;GREEN.BR;21871600;5.04;Belgium
+222;BJ's Restaurants;BJRI;21176000;36.2361565;United States
+223;Wawel;WWL.WA;20835900;154.62886977;Poland
+224;Tabuk Agricultural Development Company;6040.SR;20357100;3.7879687614;Saudi Arabia
+225;Whole Earth Brands;FREE;20028000;4.6378471;United States
+226;NoHo Partners;NOHO.HE;19005700;9.24;Finland
+227;Lifeway Foods;LWAY;18890000;21.1512493;United States
+228;Café de Coral;0341.HK;18367400;0.90951419553;Hong Kong
+229;SunOpta;STKL;16633000;6.6472634;Canada
+230;Naturhouse Health;NTH.MC;15946000;1.78;Spain
+231;Ice Fish Farm;IFISH.OL;15651000;2.4794102016;Iceland
+232;Halwani Bros;6001.SR;15584600;14.617979801;Saudi Arabia
+233;Dhampur Sugar Mills;DHAMPURSUG.NS;15226300;1.4580267533;India
+234;Cobram Estate Olives;CBO.AX;14985000;1.21136376;Australia
+235;Agrana;AGR.VI;14454000;10.55;Austria
+236;Gobarto;GOB.WA;14316800;6.4388650261;Poland
+237;Restaurant Brands New Zealand;RBD.NZ;14177800;2.1652555812;New Zealand
+238;Calavo Growers;CVGW;12544000;22.9701996;United States
+239;Kappa Create;7421.T;11931900;9.2591998444;Japan
+240;United Foods Company;UFC.AE;11444600;3.1115954255;United Arab Emirates
+241;Unikai Foods;UNIKAI.AE;11200800;1.9370201734;United Arab Emirates
+242;Fleury Michon;ALFLE.PA;11050200;22.5;France
+243;Fairwood Holdings;0052.HK;10619900;0.70848971282;Hong Kong
+244;Potbelly Corporation;PBPB;10338000;11.4946231;United States
+245;Apetit Oyj;APETIT.HE;10219900;14.35;Finland
+246;Widam Food Company;WDAM.QA;9548590;0.59913080193;Qatar
+247;Josef Manner &amp;;;;
+248;YanGuFang International Group;YGF;8074280;0.698248356;China
+249;Alamar Foods Company;6014.SR;8055650;19.727896882;Saudi Arabia
+250;Wafrah for Industry and Development Company;2100.SR;7442960;9.736812386;Saudi Arabia
+251;Barbeque Nation Hospitality;BARBEQUE.NS;7273850;3.4127221715;India
+252;Vidhi Specialty Food;VIDHIING.NS;6734480;5.0580531892;India
+253;Sligro Food;SLIGR.AS;6632770;10.56;Netherlands
+254;GEN Restaurant Group;GENK;5979000;5.2473383;United States
+255;Davis Commodities;DTCK;5568000;0.87423894;Singapore
+256;B.F. S.p.A.;BFG.MI;5313950;4.49;Italy
+257;WASGAU Produktions &amp;;;;
+258;Shake Shack;SHAK;4814000;103.5373176;United States
+259;Poulaillon;ALPOU.PA;4744870;5.55;France
+260;Mama's Creations;MAMA;4713000;5.9901557;United States
+261;Farmmi;FAMI;3508120;0.23617784;China
+262;Rave Restaurant Group;RAVE;3206000;2.4379648;United States
+263;Milkfood Limited;MLKFOOD.BO;2619440;0.9639865192;India
+264;Iceland Seafood International;ICESEA.IC;1537220;0.035987407904;Iceland
+265;Anaam International;4061.SR;999370;6.0607423996;Saudi Arabia
+266;HF Foods Group;HFFG;818000;1.97608475;United States
+267;Apex Frozen Foods;APEX.NS;276320;2.3497599954;India
+268;Development Works Food Company;6013.SR;156009;34.015418173;Saudi Arabia
+269;Americana Restaurants International;AMR.AE;0;0.6190145;United Arab Emirates
+270;Rafhan Maize Products Company;RMPL.PK;0;32.023810444;Pakistan
+271;Nestle Pakistan;NESTLE.PK;0;25.040850719;Pakistan
+272;Oman Flour Mills;OFMI.OM;0;1.0391729727;Oman
+273;Ismail Industries;ISIL.PK;0;6.4826722061;Pakistan
+274;Agthia Group;AGTHIA.AE;0;1.5808678;United Arab Emirates
+275;A'Saffa Foods;SPFI.OM;0;0.9748430812;Oman
+276;Sláturfélags Suðurlands;SFS-B.IC;0;0.018507771686;Iceland
+277;X5 Retail Group;FIVE.ME;0;30.8745386;Netherlands
+278;Unilever Pakistan Foods;UPFL.PK;0;78.062585333;Pakistan
+279;Foodco National Foodstuff;FNF.AE;0;0.5618747;United Arab Emirates
+280;Halloren Schokoladenfabrik;H2RB.HM;-882436;5.9;Germany
+281;Smart Good Things Holding;MLSGT.PA;-1210010;3.2;France
+282;Laird Superfood;LSF;-1649600;6.9234391;United States
+283;Aker BioMarine;AKBM.OL;-2100000;5.7026377497;Norway
+284;Arctic Fish Holding;AFISH.OL;-4083460;5.4290523873;Iceland
+285;BranchOut Food;BOF;-4185940;1.8189503;United States
+286;Borealis Foods;BRLS;-5641010;5.9615858;Canada
+287;Moolec Science;MLEC;-6874170;0.7428174;Luxembourg
+288;Kura Sushi USA;KRUS;-7498000;66.5202505;United States
+289;Proximar Seafood;PROXI.OL;-8551600;0.29923922794;Norway
+290;ATOM Corporation;7412.T;-8663770;4.2430015587;Japan
+291;Forafric Global PLC;AFRI;-8715000;9.0090418;Gibraltar
+292;Herfy Food Services Company;6002.SR;-9859600;6.2437897489;Saudi Arabia
+293;Edible Garden;EDBL;-10403000;0.20760794;United States
+294;Veganz Group;VEZ.DE;-10451000;8.3;Germany
+295;Raydan Food;6012.SR;-10457400;6.0200683853;Saudi Arabia
+296;Tipiak;TIPI.PA;-13299800;88;France
+297;Stryve Foods;SNAX;-15297600;0.5142582;United States
+298;Olo;OLO;-15519000;6.5425071;United States
+299;DDC Enterprise;DDC;-21243800;0.205322348;Hong Kong
+300;Noodles &amp;;;;
+301;Saudi Fisheries Company;6050.SR;-25840600;31.320609972;Saudi Arabia
+302;Alto Ingredients;ALTO;-28824000;1.618961;United States
+303;TreeHouse Foods;THS;-29700000;29.1222514;United States
+304;Real Good Food plc;RGF;-39030000;1.1904125;United Kingdom
+305;Village Farms International;VFF;-44641000;0.746341021;Canada
+306;Red Robin;RRGB;-51657000;4.6568937;United States
+307;Atlantic Sapphire;ASA.OL;-65006000;0.0063137764806;Norway
+308;Grieg Seafood;GSF.OL;-65302500;4.3304159294;Norway
+309;AquaBounty;AQB;-68921700;0.685487134;United States
+310;HelloFresh;HFG.DE;-78205700;12.91;Germany
+311;TH International (Tims China);THCH;-86188000;2.94746135;China
+312;PAR Technology;PAR;-86630000;59.3015891;United States
+313;Sweetgreen;SG;-89062000;20.7893639;United States
+314;Grab Holdings;GRAB;-98000000;4.666417;Singapore
+315;Local Bounti;LOCL;-100909000;2.1141726;United States
+316;Select Harvests Limited;SHV.AX;-102543000;2.9496612323;Australia
+317;(DIA) Distribuidora Internacional de Alimentación;DIA.MC;-109153000;0.0177;Spain
+318;Hain Celestial;HAIN;-110414000;3.9807394;United States
+319;Delivery Hero;DHER.F;-129615000;28.18;Germany
+320;Super Hi International;9658.HK;-149592000;2.1352762328;Singapore
+321;FAT Brands;FAT;-151926000;3.333155;United States
+322;DoorDash;DASH;-159000000;190.4088602;United States
+323;Oatly;OTLY;-219698000;7.5710235;Sweden
+324;Beyond Meat;BYND;-270453000;3.8283666;United States
+325;Deliveroo;ROO.L;-278980000;1.6301223076;United Kingdom
+326;Swiggy;SWIGGY.NS;-297132000;3.9653878404;India
+327;Ocado;OCDO.L;-389145000;3.7210199624;United Kingdom
+328;DSM-Firmenich;DSFIR.AS;-529516000;101.1;Switzerland
+329;Missfresh;MF;-598848000;0.95233;China
+330;Just Eat Takeaway;TKWY.AS;-2181070000;12.425;Netherlands
+331;Sodexo;SW.PA;-2865310000;73.45;France
